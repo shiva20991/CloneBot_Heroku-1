@@ -1,11 +1,11 @@
 {
 	"name": "CloneBot",
 	"description": "CloneBot",
-	"repository": "https://github.com/MsGsuite/CloneBot",
+	"repository": "https://github.com/shiva20991/CloneBot_Heroku-1",
 	"keywords": ["Gclone","TG"],
-	"repository": "https://github.com/MsGsuite/CloneBot",
+	"repository": "https://github.com/shiva20991/CloneBot_Heroku-1",
         "website": "https://t.me/msgsuitechat",
-        "success_url": "https://github.com/MsGsuite/CloneBot/blob/master/README.md",
+        "success_url": "https://github.com/shiva20991/CloneBot_Heroku-1",
 	"env": {
 		"telegram_token": {
 			"description": "Get from Telegram @Botfather."
